@@ -42,12 +42,6 @@
 - Hay soluciones como adaptar la página para que se le muestre una versión simple a los crawlers
 ![image](https://user-images.githubusercontent.com/91635108/200251716-b06ad609-fd9d-4661-ad2a-70c27e3f281a.png)
 
-
-## Ejemplo aplicativo de Server Side Rendering
-
-## Ejemplo aplicativo de Client Side Rendering
-
-
 # Nuxt.js
 ![image](https://user-images.githubusercontent.com/91635108/200252118-a8874db0-011f-4015-b6e9-425b67bb1228.png)
 
